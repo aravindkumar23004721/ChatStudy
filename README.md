@@ -1,5 +1,9 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
+Aravind kumar SS
+212223110004
+B.tech csc(Iot)
+
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
